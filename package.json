@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@coinbase/coinbase-sdk": "^0.7.0",
-    "@coinbase/onchainkit": "^0.33.2",
+    "@coinbase/onchainkit": "^0.38.5",
     "@heroicons/react": "^2.1.5",
     "@nextui-org/react": "^2.4.8",
     "@tanstack/react-query": "^5.56.2",
