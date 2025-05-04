@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@coinbase/coinbase-sdk": "^0.7.0",
+    "@coinbase/coinbase-sdk": "^0.22.0",
     "@coinbase/onchainkit": "^0.33.2",
     "@heroicons/react": "^2.1.5",
     "@nextui-org/react": "^2.4.8",
